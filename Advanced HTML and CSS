@@ -1,0 +1,40 @@
+Iterative development of a website means think-design-deploy and repeat, a website go thought multiple iterations.
+WaterFall design is one time design, gather all information at once, deploy and maintain only not good way to design
+
+Table in HTML : Improved readiability, Better organisation, Enhanced functionality
+<table>, <tr>, <td>, and <th>
+<table border="1" id="jobs-table">
+  <tr class="header-row">
+      <th>Heading 1</th>
+      <th>Heading 2</th>
+      <th>Heading 3</th>
+  </tr>
+  <tr class= "data-row">
+      <td> 1</td>
+      <td> 1</td>
+      <td> 1</td>
+  </tr>
+  <tr class= "data-row">
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+  </tr>
+</table>
+
+* Merging table row or coloums.
+  rowspan="2"  meaning take 2 row of table,
+  colspan="2" takeup 2 coloums to table
+
+
+* Text Styles in CSS:
+  - Size, Font, Color, Spacing, and Other visual aspects of text.
+  - Font-Family: Using External Fonts using CSS. . . ... this makes stand out your website from the others
+  - Font-Size
+  - Font-Weight: fort-weight: 600 (400 is regular)
+  - test-align
+  - font-style: italic
+  - text-transforml: upppercase or lowercase kind of things comes here
+  - text-decoration: underline, overline, line-throught, with help of span can be use like how we can add style 
+  - line-height:
+
+*Understanding size: absolute like is pixel and relatice like in percentages and rem meaning times of parent front size, 
